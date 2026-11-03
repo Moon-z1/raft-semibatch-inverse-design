@@ -1,0 +1,5 @@
+target,variant,mean_top10_hits,mean_false_feasible,mean_best_score,mean_actual_gain,improved_runs_1e4
+A10_K8,mixed_penalty,3.9,0,0.0570929968559899,7.84233399123814e-05,2
+A10_K8,separated_response,4.5,0,0.0570750516249302,9.63685709720004e-05,2
+A16_K8,mixed_penalty,2,0,0.0680451584983827,-0.000643837390304288,2
+A16_K8,separated_response,2.7,0,0.0676010309344767,-0.000199709826398292,3
